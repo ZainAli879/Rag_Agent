@@ -22,7 +22,7 @@ It reads a PDF document, breaks it into pieces, stores the data smartly, and use
 1. **Clone the repo**  
    git clone https://github.com/ZainAli879/Rag_Agent.git
    
-   cd your-repo
+   cd Rag_Agent.py
 
 3. **Place your PDF**
    Make sure the file `Stock_Market_Performance_2024.pdf` is in the root folder.
