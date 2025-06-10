@@ -20,7 +20,7 @@ It reads a PDF document, breaks it into pieces, stores the data smartly, and use
 ## ⚙️ Setup Instructions
 
 1. **Clone the repo**  
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/ZainAli879/Rag_Agent.git
    
    cd your-repo
 
